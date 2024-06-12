@@ -1,0 +1,4 @@
+MNIST 데이터셋을 로드합니다...
+train 데이터를 로드했습니다.
+t10k 데이터를 로드했습니다.
+Epoch 20: Train accuracy: 0.9900, Test accuracy: 0.9480
